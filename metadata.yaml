@@ -1,0 +1,27 @@
+_repo: Ambrosius_13599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molbech, Chr. K. F. (Christian Knud Frederik)
+    alias: Molbech, C. (Christian Knud Frederik)
+    birthdate: 1821
+    deathdate: 1888
+    gutenberg_agent_id: '5148'
+    url: http://www.gutenberg.org/2009/agents/5148
+description: ''
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13599'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish drama'
+title: Ambrosius
+url: http://www.gutenberg.org/ebooks/13599
